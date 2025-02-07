@@ -4,7 +4,7 @@
 
 - [Backcountry Skiing Trails of Copper Mountain & Breckenridge, Colorado](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - [Pennsylvania Fish and Boat Commission Trout Stream Database Design](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- [Determing the Effects of Hurricanes on Barrier Islands Using Remote Sensing](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- [Determing the Physical and Environmental Impacts of Hurricanes on Mid-Atlantic Barrier Islands Using Remote Sensing](https://github.com/cmmalyshko29/BarrierIslandMonitoring)
 - [Determining the Seasonality of Open Ocean Phytoplankton Blooms Using NOAA Biogeochemical ARGO Float Data](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> Education: </h2>

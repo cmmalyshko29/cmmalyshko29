@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1>🗺️ Hi, I'm Christina Malyshko! 🌎 </h1>
 
-<!--
-**cmmalyshko29/cmmalyshko29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Geographic Information Systems Projects:</h2>
 
-Here are some ideas to get you started:
+- [Backcountry Skiing Trails of Copper Mountain & Breckenridge, Colorado](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- [Pennsylvania Fish and Boat Commission Trout Stream Database Design](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- [Determing the Effects of Hurricanes on Barrier Islands Using Remote Sensing](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- [Determining the Seasonality of Open Ocean Phytoplankton Blooms Using NOAA Biogeochemical ARGO Float Data](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Education: </h2>
+
+- Professional Science Master's in Geographic Information Systems | Temple University
+- Professional Certificate in Geographic Information Systems and Data Communication | University of Vermont
+- Bachelor of Science in Marine Sciences (concentration in Ecology, Evolution, and Natural Resource Management) | Rutgers University-New Brunswick
+
+<h2> Skills: </h2>
+
+- 
+
+<h2> Connect with me on LinkedIn:</h2>
+
+[<img align="left" alt="ChristinaMalyshko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/christina-malyshko-8535b5188 
+

@@ -2,10 +2,12 @@
 
 <h2> Geographic Information Systems Projects:</h2>
 
-- [Backcountry Skiing Trails of Copper Mountain & Breckenridge, Colorado](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- in progress ... 
+- Backcountry Skiing Trails of Copper Mountain & Breckenridge, Colorado
 - [Pennsylvania Fish and Boat Commission Trout Stream Database Design](https://github.com/cmmalyshko29/PAFBCTroutDB)
 - [Determing the Physical and Environmental Impacts of Hurricanes on Mid-Atlantic Barrier Islands Using Remote Sensing](https://github.com/cmmalyshko29/BarrierIslandMonitoring)
-- [Determining the Seasonality of Open Ocean Phytoplankton Blooms Using NOAA Biogeochemical ARGO Float Data](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Determining the Seasonality of Open Ocean Phytoplankton Blooms Using NOAA Biogeochemical ARGO Float Data](https://github.com/cmmalyshko29/SouthernOceanPhytoplankton)
+
 
 <h2> Education: </h2>
 

@@ -13,7 +13,7 @@
 
 - **Professional Science Master's *in Geographic Information Systems*** | Temple University
 - **Professional Certificate *in Geographic Information Systems and Data Communication*** | University of Vermont
-- **Bachelor of Science *in Marine Sciences (concentration in Ecology, Evolution, and Natural Resources)*** | Rutgers University-New Brunswick
+- **Bachelor of Science *in Marine Sciences (concentration in Ecology, Evolution, and Natural Resources)*** | Rutgers University
 
 <h2> Skills: </h2>
 

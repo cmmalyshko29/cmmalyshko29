@@ -11,13 +11,22 @@
 
 <h2> Education: </h2>
 
-- Professional Science Master's in Geographic Information Systems | Temple University
-- Professional Certificate in Geographic Information Systems and Data Communication | University of Vermont
-- Bachelor of Science in Marine Sciences (concentration in Ecology, Evolution, and Natural Resource Management) | Rutgers University-New Brunswick
+- **Professional Science Master's *in Geographic Information Systems*** | Temple University
+- **Professional Certificate *in Geographic Information Systems and Data Communication*** | University of Vermont
+- **Bachelor of Science *in Marine Sciences (concentration in Ecology, Evolution, and Natural Resources)*** | Rutgers University-New Brunswick
 
 <h2> Skills: </h2>
 
-- 
+- Python       
+- PostgresQL
+- R Coding Language
+- MATLAB
+- JavaScript
+- ArcGIS Pro Desktop
+- QGIS
+- Google Earth Engine
+- Adobe Suite
+- Microsoft Suite
 
 <h2> Connect with me on LinkedIn:</h2>
 
